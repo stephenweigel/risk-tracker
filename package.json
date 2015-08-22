@@ -1,0 +1,19 @@
+{
+  "name": "Risk Tracker",
+  "version": "0.0.1",
+  "description": "An application to help track reinforcements in the board game Risk.",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/stephenweigel/risk-tracker"
+  },
+  "author": "Stephen Weigel",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.8.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.2",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
+}
